@@ -12,7 +12,10 @@
   "description": "",
   "dependencies": {
     "disk": "^0.8.0",
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^9.2.1",
     "morgan": "^1.10.1"
   }
 }
